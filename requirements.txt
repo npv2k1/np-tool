@@ -1,0 +1,10 @@
+altgraph==0.17.3
+autopep8==2.0.2
+colorama==0.4.6
+pefile==2023.2.7
+pycodestyle==2.10.0
+pyinstaller==5.9.0
+pyinstaller-hooks-contrib==2023.0
+pywin32-ctypes==0.2.0
+tomli==2.0.1
+tqdm==4.65.0
