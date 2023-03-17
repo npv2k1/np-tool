@@ -11,3 +11,33 @@ Tính năng sắp có
 
 - Hiện quá trình copy template
 - Custom template
+
+Template category
+
+- Frontend
+  - React
+  - Svelte
+  - Nextjs
+
+- Backend
+  - Nestjs
+  - Gin
+  - Django
+  - Springboot
+  
+- Mobile
+  - React native
+  - Expo
+- Desktop
+  - Electron
+  - Tauri
+  
+- Smartcontrat
+  - Solidity
+  - Move
+  - Near
+  - Solana
+- Game
+  - Unity
+  - PyGame
+  

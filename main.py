@@ -148,6 +148,10 @@ for i, template in enumerate(templates):
     print(f"{i+1}. {template['name']}")
 
 template_index = int(input("Enter a number: ")) - 1
+if (template_index < 0 or template_index >= len(templates)):
+    print("Invalid template index")
+    exit(1)
+
 
 template_select = templates[template_index]
 
