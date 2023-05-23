@@ -28,6 +28,7 @@ Template category
 - Mobile
   - React native
   - Expo
+  
 - Desktop
   - Electron
   - Tauri
@@ -37,6 +38,7 @@ Template category
   - Move
   - Near
   - Solana
+  
 - Game
   - Unity
   - PyGame
